@@ -1,0 +1,15 @@
+#image-div{
+    position: relative;
+    overflow: hidden;
+}
+
+.img{
+    position: absolute;
+    transition: 2s all ease-in-out ;
+}
+
+*{
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+
